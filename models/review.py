@@ -5,6 +5,10 @@ from models.base_model import BaseModel
 
 class Review(BaseModel):
     """Represent a review.
+<<<<<<< HEAD
+=======
+
+>>>>>>> babff1351fbadb6c54591f8420e121f2e3fa9b6b
     Attributes:
         place_id (str): The Place id.
         user_id (str): The User id.
